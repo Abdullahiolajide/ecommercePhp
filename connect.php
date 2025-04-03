@@ -1,8 +1,8 @@
 <?php
-    $localhost='localhost';
+    $localhost='mysql.railway.internal';
     $username='root';
-    $password='';
-    $db='project_e_commerce';
+    $password='pVRSMmdTCLuBEAcSeeqCLSopQFMeXxUx';
+    $db='joyful-art';
 
     $connect = new mysqli($localhost, $username, $password, $db);
 
